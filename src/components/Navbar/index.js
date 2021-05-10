@@ -1,5 +1,5 @@
 import React from 'react'
-import { Nav, NavIcon, NavLink, Bars } from './NavbarElements'
+import { Nav, NavIcon, NavLink, } from './NavbarElements'
 import { FaBars } from 'react-icons/fa'
 const Navbar = ({ toggle }) => {
     return (
@@ -8,7 +8,7 @@ const Navbar = ({ toggle }) => {
                 <NavLink to="/">Dosaeria</NavLink>
                 <NavIcon onClick={toggle}>
                     <p>Menu</p>
-                    <Bars />
+                    <FaBars />
                 </NavIcon>
             </Nav>
         </>
