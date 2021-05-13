@@ -11,23 +11,23 @@ export const ProductData = [
         alt: 'Dosae',
         name: 'Masala Dosa',
         desc:
-            'Dosa brushed with spicy red chutney, stuffed with Aloo Masala served with Aromatic Sambar and onion chutney',
+            'Dosae brushed with spicy red chutney, stuffed with Aloo Masala served with Aromatic Sambar and onion chutney',
         price: 'Rs. 100',
         Button: 'Add to Cart',
     },
     {
         img: product2,
         alt: 'Dosae',
-        name: 'Plain Dosa',
+        name: 'Plain Dosae',
         desc:
-            'Plain Dosa stuffed with Aloo Masala served with Aromatic Sambar and chilli chutney',
+            'Plain Dosae stuffed with Aloo Masala served with Aromatic Sambar and chilli chutney',
         price: 'Rs. 70',
         Button: 'Add to Cart',
     },
     {
         img: product3,
         alt: 'Dosae',
-        name: 'Set Dosa',
+        name: 'Set Dosae',
         desc:
             'A set of two fluffy dosa brushed with butter garlic, served with Sambar and Vegetable curry',
         price: 'Rs. 80',
@@ -36,27 +36,27 @@ export const ProductData = [
     {
         img: product4,
         alt: 'Dosae',
-        name: 'Panneer Masala Dosa',
+        name: 'Panneer Masala Dosae',
         desc:
-            'Dosa stuffed with roasted panneer Masala served with mayonaise dip',
+            'Dosae stuffed with roasted panneer Masala served with mayonaise dip',
         price: 'Rs. 150',
         Button: 'Add to Cart',
     },
     {
         img: product5,
         alt: 'Dosae',
-        name: 'Cheese masala Dosa',
+        name: 'Cheese masala Dosae',
         desc:
-            'Dosa brushed with spicy red chutney and grated with cheese, stuffed with Aloo Masala served with Aromatic spicy Sambar',
+            'Dosae brushed with spicy red chutney and grated with cheese, stuffed with Aloo Masala served with Aromatic spicy Sambar',
         price: 'Rs. 120',
         Button: 'Add to Cart',
     },
     {
         img: product6,
         alt: 'Dosae',
-        name: 'Jini Dosa',
+        name: 'Jini Dosae',
         desc:
-            'Dosa filled with Gobi Masala and grated with cheese served with masala mayonaise is rolle and served for a rollercoaster experience',
+            'Dosae filled with Gobi Masala and grated with cheese served with masala mayonaise is rolle and served for a rollercoaster experience',
         price: 'Rs. 150',
         Button: 'Add to Cart',
     },

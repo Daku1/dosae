@@ -7,7 +7,7 @@ export const SidebarContainer = styled.div`
     z-index: 999;
     width: 250px;
     height: 100%;
-    background: #ffc500;
+    background: #ffa500;
     display: grid;
     align-items: center;
     top: 0;
@@ -68,7 +68,7 @@ export const SidebtnWrap = styled.div`
 `
 
 export const SidebarRoute = styled(Link)`
-    background: #e31837;
+    background: #500000;
     white-space: nowrap;
     padding: 16px 20px;
     border-radius: 5px;
@@ -82,7 +82,7 @@ export const SidebarRoute = styled(Link)`
 
     &:hover {
         transition: 0.2s ease-in-out;
-        background: #fff;
-        color: #018686;
+        background: #e31837;
+        color: #fff;
     }
 `

@@ -11,7 +11,7 @@ export const Nav = styled.nav`
 `
 
 export const NavLink = styled(Link)`
-    color: #fff;
+    color: #eae5e1;
     font-size: 2rem;
     display: flex;
     align-items: center;
@@ -26,10 +26,13 @@ export const NavLink = styled(Link)`
 `
 
 export const NavIcon = styled.div`
-    display: block;
+    display: inline-block;
     position: absolute;
-    top: 0;
-    color: white;
+    align-items: center;
+    font-size: 1.2rem;
+    justify-content: center;
+    top: 5px;
+    color: #fff;
     right: 0;
     cursor: pointer;
 

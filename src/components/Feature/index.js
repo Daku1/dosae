@@ -5,7 +5,7 @@ export const Feature = () => {
     return (
         <FeatureContainer>
             <h1> Dosae of the Day</h1>
-            <p> Masala Dosa topped with gold dust</p>
+            <p> Gourmet Dosae</p>
             <FeatureButton>Order Now</FeatureButton>
         </FeatureContainer>
     )
