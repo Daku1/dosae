@@ -5,6 +5,7 @@ import { GlobalStyle } from './globalStyle'
 import { Products } from './components/Products/index'
 import { ProductData } from './components/Products/data'
 import { Feature } from './components/Feature/index'
+
 function App() {
     return (
         <Router>

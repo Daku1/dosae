@@ -4,7 +4,7 @@ export const ProductsContainer = styled.div`
     /* width: 100vw; */
     min-height: 100vh;
     padding: 5rem calc((100vw - 1300px) / 2);
-    background: #500000;
+    background: #280000;
     color: #fff;
 `
 
@@ -25,7 +25,7 @@ export const ProductImage = styled.img`
     height: 300px;
     min-width: 300px;
     max-width: 100%;
-    box-shadow: 8px 8px #bc8f8f;
+    box-shadow: 8px 8px #ffc500;
 `
 
 export const ProductsHeading = styled.h1`
@@ -68,7 +68,7 @@ export const ProductButton = styled.button`
     border-radius: 5px;
 
     &:hover {
-        background: #ff8c00;
+        background: #ffc500;
         transition: 0.2s ease-out;
         cursor: pointer;
         color: #000;
